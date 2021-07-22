@@ -1,0 +1,19 @@
+{
+    "name": "queopius/microservice-common",
+    "description": "Package Files Utils Microservices",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Queopius A. S.",
+            "email": "dev.queopius@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Queopius\\MicroserviceCommon\\": "src/"
+        }
+    }
+}
